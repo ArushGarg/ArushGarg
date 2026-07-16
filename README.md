@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo.svg" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" width="120"/>
 </p>
 
 ---
