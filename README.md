@@ -1,18 +1,107 @@
-# 💫 About Me:
-Hi, I'm Arush Garg, a Computer Science student and aspiring software developer.<br><br>I specialize in Flutter development and have hands-on experience building mobile applications with Firebase and REST APIs. I enjoy solving real-world problems through code and continuously improving my technical skills.<br><br>- 💻 Tech Stack: Flutter, Dart, Firebase, REST APIs  <br>- 📚 Currently learning: Machine Learning & advanced app architecture  <br>- 🎯 Goal: To become a skilled full-stack developer  <br>- ⚡ Fun fact: I love turning ideas into real apps  <br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arushgarg/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arushgarg662@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArushGarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArushGarg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArushGarg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0553B1,100:02B4FA&height=200&section=header&text=Arush%20Garg&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+<h1 align="center">◉ Arush Garg</h1>
+<h3 align="center">Flutter Developer • Building Full-Stack Mobile Experiences</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArushGarg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo.svg" width="120"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=02B4FA&center=true&vCenter=true&width=650&lines=Flutter+Developer;Dart+%7C+Firebase+%7C+Supabase;Node.js+%7C+REST+APIs;Building+Real+World+Apps" />
+</p>
+
+---
+
+## ◈ About Me
+
+<p align="center">
+Final-year B.Tech Computer Science student at AKGEC, Ghaziabad (graduating May 2027). <br>
+Focused on building cross-platform mobile apps that are polished, performant, and production-ready. <br>
+Crafting full-stack experiences using <b>Flutter, Firebase, Supabase, & Node.js/Express</b>. <br>
+Passionate about <b>competitive programming</b> — 750+ DSA problems solved across platforms. <br>
+Obsessed with writing clean, scalable, and interview-defensible code.
+</p>
+
+---
+
+## ◉ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,postgresql,git,github" />
+</p>
+
+<p align="center">
+  <b>Mobile:</b> Flutter · Dart · Provider · Riverpod · Bloc <br>
+  <b>Backend:</b> Node.js · Express · Firebase (Auth, Firestore, Storage) · Supabase (PostgreSQL, RLS) <br>
+  <b>Other:</b> Razorpay Payments · REST APIs · Oracle Cloud AI Certified
+</p>
+
+---
+
+## ◇ Current Focus
+
+<p align="center">
+• Sharpening full-stack Flutter apps with real backend integrations (Supabase, Node.js) <br>
+• Exploring GenAI-integrated mobile apps — LangChain, vector DBs, pgvector <br>
+• Algorithmic problem solving and competitive programming <br>
+• Building children's content — interactive learning apps & storytelling
+</p>
+
+---
+
+## ◇ Featured Projects
+
+<p align="center">
+• <b>Cartify</b> — Full-stack e-commerce app: Flutter + Node.js/Express + Supabase (PostgreSQL, RLS) + Razorpay (HMAC-SHA256 verified) <br>
+• <b>Tracksheet</b> — Live on Google Play, built with Bloc state management <br>
+• <b>Chat_App / Fast Messenger</b> — Real-time chat with Firebase Auth, Firestore, Storage, read receipts <br>
+• <b>SparkleWash</b> — On-demand car wash booking app with Google Sign-In & Firestore <br>
+• <b>Unfazzed</b> — Home services app UI inspired by Urban Company
+</p>
+
+<p align="center">
+🏅 Top 10 nationally at a hackathon with 500+ participants
+</p>
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArushGarg&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArushGarg&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## ◌ Connect
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://thriving-palmier-a22a8c.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Precision in code. Simplicity in design.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0553B1,100:02B4FA&height=120&section=footer"/>
+</p>
